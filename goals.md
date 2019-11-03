@@ -1,4 +1,4 @@
-# Wyvern goals
+# Siren goals
 - Functional
 - Strongly and statically typed
 - Useful in both high level and low level programming

@@ -1,1 +1,1 @@
-# Example Wyvern Syntax
+# Example Siren Syntax
